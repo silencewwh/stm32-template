@@ -28,7 +28,7 @@ $ rustup target add thumbv6m-none-eabi thumbv7m-none-eabi thumbv7em-none-eabi th
 
 1. Run and enter project name
 ``` console
-$ cargo generate --git https://github.com/burrbull/stm32-template/
+$ cargo generate --git https://github.com/silencewwh/stm32-template/
  Project Name: app
 ```
 
